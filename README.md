@@ -1,4 +1,5 @@
 ## Hi there 👋
+I like accounting and programming. I plan to excel in both fields.
 
 <!--
 **GenCrunchyBalls/GenCrunchyBalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
